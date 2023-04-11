@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "react-chat-engine-advanced": "^0.1.28"
+  }
+}
